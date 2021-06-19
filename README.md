@@ -1,3 +1,3 @@
 # spring-framework
 
-spring-framework-subjects
+spring framework detailed subjects
